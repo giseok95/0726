@@ -1,3 +1,9 @@
+/*
+ *누가 
+ *언제
+ *목적
+ *작성환경(os,jdk version,editor) ex) Window10, Open Jdk11.0.16, Eclipse 2022-6
+ */
 import java.util.Scanner;
 
 public class Studentinfo {
@@ -5,7 +11,7 @@ public class Studentinfo {
 		Scanner sc = new Scanner(System.in);
 			
 		System.out.print("학생 이름 :");
-		String name = sc.nextLine();
+		String name = sc.nextLine(); 
 		
 		System.out.print("학번 :");
 		String hakbun = sc.nextLine();
